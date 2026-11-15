@@ -1,7 +1,7 @@
 {
   "versionCode": 85,
   "versionName": "3.9.41",
-  "notes": "Catégorie « Récentes » (20 dernières chaînes regardées), les 3 prochains programmes dans la fiche, marges du Guide TV et des Réglages comme le Live, et les mises à jour sont vues tout de suite après leur publication.",
+  "notes": "Volet des catégories : la page se resserre à côté (plus rien de coupé), image de l'aperçu qui remplit tout le cadre, coins des cadres plus fins. Catégorie « Récentes », les 3 prochains programmes dans la fiche, marges du Guide TV et des Réglages comme le Live, mises à jour vues tout de suite.",
   "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-mibox.apk",
   "apks": {
     "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-mibox.apk",
