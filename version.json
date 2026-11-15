@@ -1,10 +1,10 @@
 {
-  "versionCode": 84,
-  "versionName": "3.9.40",
-  "notes": "Accueil : nouveau volet des catégories noir profond (heure, ronds fins, sélection en or, la page glisse à droite). Fiches des séries et épisodes gardés sur la box (ouverture immédiate). Catalogue Films plus léger en mémoire et plus de double téléchargement.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.40-mibox.apk",
+  "versionCode": 85,
+  "versionName": "3.9.41",
+  "notes": "Catégorie « Récentes » (20 dernières chaînes regardées), les 3 prochains programmes dans la fiche, marges du Guide TV et des Réglages comme le Live, et les mises à jour sont vues tout de suite après leur publication.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.40-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.40-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-googletv.apk"
   }
 }
