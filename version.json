@@ -1,10 +1,10 @@
 {
-  "versionCode": 83,
-  "versionName": "3.9.39",
-  "notes": "Nouveau réglage « Décalage du guide » (Réglages → Sources) : si les programmes du guide sont en avance ou en retard, décale-les de −3 h à +3 h.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.39-mibox.apk",
+  "versionCode": 84,
+  "versionName": "3.9.40",
+  "notes": "Accueil : nouveau volet des catégories noir profond (heure, ronds fins, sélection en or, la page glisse à droite). Fiches des séries et épisodes gardés sur la box (ouverture immédiate). Catalogue Films plus léger en mémoire et plus de double téléchargement.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.40-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.39-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.39-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.40-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.40-googletv.apk"
   }
 }
