@@ -1,0 +1,10 @@
+{
+  "versionCode": 82,
+  "versionName": "3.9.38",
+  "notes": "Mises à jour directement depuis l'appli : Patrick TV vérifie toute seule s'il existe une nouvelle version et l'installe en un clic.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.38-mibox.apk",
+  "apks": {
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.38-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.38-googletv.apk"
+  }
+}
