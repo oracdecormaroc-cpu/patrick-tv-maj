@@ -1,10 +1,10 @@
 {
-  "versionCode": 85,
-  "versionName": "3.9.41",
-  "notes": "Volet des catégories : la page se resserre à côté (plus rien de coupé), image de l'aperçu qui remplit tout le cadre, coins des cadres plus fins. Catégorie « Récentes », les 3 prochains programmes dans la fiche, marges du Guide TV et des Réglages comme le Live, mises à jour vues tout de suite.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-mibox.apk",
+  "versionCode": 86,
+  "versionName": "3.9.42",
+  "notes": "Nouvelle icône diamant, au choix en 9 couleurs : Réglages → Apparence → Couleur de l'icône (Bleu nuit, Or de feu, Émeraude, Améthyste, Rubis, Platine, Turquoise, Or rose, Onyx et or). Le logo de la fenêtre « Quitter » suit la couleur. Adresse MAC retirée du Diagnostic.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.42-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.41-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.42-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.42-googletv.apk"
   }
 }
