@@ -1,10 +1,10 @@
 {
-  "versionCode": 86,
-  "versionName": "3.9.42",
-  "notes": "Nouvelle icône diamant, au choix en 9 couleurs : Réglages → Apparence → Couleur de l'icône (Bleu nuit, Or de feu, Émeraude, Améthyste, Rubis, Platine, Turquoise, Or rose, Onyx et or). Le logo de la fenêtre « Quitter » suit la couleur. Adresse MAC retirée du Diagnostic.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.42-mibox.apk",
+  "versionCode": 87,
+  "versionName": "3.9.43",
+  "notes": "Films et Séries : le résumé ne passe plus jamais par-dessus la ligne note · durée · genre. Il se place toujours après, et un genre trop long est coupé « … ». Fiche détaillée : titre et infos limités à 2 lignes.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.43-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.42-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.42-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.43-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.43-googletv.apk"
   }
 }
