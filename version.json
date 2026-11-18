@@ -1,10 +1,10 @@
 {
-  "versionCode": 87,
-  "versionName": "3.9.43",
-  "notes": "Films et Séries : le résumé ne passe plus jamais par-dessus la ligne note · durée · genre. Il se place toujours après, et un genre trop long est coupé « … ». Fiche détaillée : titre et infos limités à 2 lignes.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.43-mibox.apk",
+  "versionCode": 88,
+  "versionName": "3.9.44",
+  "notes": "Films et Séries : pendant le chargement, plus de pastilles vides ni de trait doré, seulement « Chargement… ». Le trait doré n'apparaît que lorsqu'il y a un résumé. (3.9.43 : le résumé ne passe plus sur la ligne note · durée · genre.)",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.44-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.43-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.43-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.44-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.44-googletv.apk"
   }
 }
