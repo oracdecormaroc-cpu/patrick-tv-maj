@@ -1,10 +1,10 @@
 {
-  "versionCode": 89,
-  "versionName": "3.9.45",
-  "notes": "Les bords ne sont plus coupés sur la télé : dans le menu principal (Direct, Films, Séries…), la pastille jaune et les ronds sont décalés un peu vers la droite, et dans les catégories du Direct, les ronds des pays aussi.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.45-mibox.apk",
+  "versionCode": 90,
+  "versionName": "3.9.46",
+  "notes": "Sur la grande télé Google TV, l'écran Direct remplit mieux l'écran : marges fines, liste des chaînes plus large, textes et logos plus grands. Rien ne change sur la Mi Box.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.46-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.45-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.45-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.46-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.46-googletv.apk"
   }
 }
