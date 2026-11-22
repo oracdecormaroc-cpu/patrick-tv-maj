@@ -1,10 +1,10 @@
 {
-  "versionCode": 93,
-  "versionName": "3.9.49",
-  "notes": "Voix nette : quand une chaîne envoie un son trop compressé (TF1 en HEVC ou Ultra HD surtout), l'appli le détecte et rend la voix plus proche et plus claire, toute seule. Réglable chaîne par chaîne dans le menu du lecteur (Auto, Toujours, Jamais).",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.49-mibox.apk",
+  "versionCode": 94,
+  "versionName": "3.9.50",
+  "notes": "Films et Séries : nouveau bouton « ≈ Même genre » sur chaque titre. Il affiche les films ou séries qui ont les mêmes genres, les mieux notés en premier ; Retour revient à la catégorie. Comprend aussi la Voix nette de la 3.9.49.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.50-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.49-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.49-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.50-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.50-googletv.apk"
   }
 }
