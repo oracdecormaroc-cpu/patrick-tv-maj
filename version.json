@@ -1,10 +1,10 @@
 {
-  "versionCode": 101,
-  "versionName": "3.9.57",
-  "notes": "Films et séries : réserve sur le disque de la box, plusieurs minutes de film téléchargées d'avance. Un ralentissement du serveur ne bloque plus l'image.",
+  "versionCode": 102,
+  "versionName": "3.9.58",
+  "notes": "Le Direct s'ouvre maintenant sur Français TNT HD. Pour changer : Réglages → Lecteur → Catégorie au démarrage.",
   "apk": "",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.57-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.57-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.58-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.58-googletv.apk"
   }
 }
