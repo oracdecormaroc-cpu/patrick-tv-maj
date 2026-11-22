@@ -1,9 +1,9 @@
 {
-  "versionCode": 98,
-  "versionName": "3.9.54",
-  "notes": "Télé 65 pouces : le menu de gauche (heure, Favoris, Direct, Films…) est plus près du bord, et le contour des cadres est net, même dans les arrondis.",
+  "versionCode": 99,
+  "versionName": "3.9.55",
+  "notes": "Le contour des cadres est net, même dans les arrondis (trait de 2 px plus franc).",
   "apk": "",
   "apks": {
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.54-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.55-mibox.apk"
   }
 }
