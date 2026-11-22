@@ -1,10 +1,10 @@
 {
-  "versionCode": 92,
-  "versionName": "3.9.48",
-  "notes": "Sur la grande télé Google TV, l'écran Direct remplit mieux l'écran : marges fines, liste des chaînes plus large, textes et logos plus grands. Rien ne change sur la Mi Box.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.48-mibox.apk",
+  "versionCode": 93,
+  "versionName": "3.9.49",
+  "notes": "Voix nette : quand une chaîne envoie un son trop compressé (TF1 en HEVC ou Ultra HD surtout), l'appli le détecte et rend la voix plus proche et plus claire, toute seule. Réglable chaîne par chaîne dans le menu du lecteur (Auto, Toujours, Jamais).",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.49-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.48-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.48-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.49-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.49-googletv.apk"
   }
 }
