@@ -1,9 +1,9 @@
 {
-  "versionCode": 97,
-  "versionName": "3.9.53",
-  "notes": "Télé 65 pouces : les cadres sont plus près du bord de l'écran (Direct, volet des catégories, Films et Séries).",
+  "versionCode": 98,
+  "versionName": "3.9.54",
+  "notes": "Télé 65 pouces : le menu de gauche (heure, Favoris, Direct, Films…) est plus près du bord, et le contour des cadres est net, même dans les arrondis.",
   "apk": "",
   "apks": {
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.53-googletv.apk"
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.54-googletv.apk"
   }
 }
