@@ -6,5 +6,11 @@
   "apks": {
     "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.58-mibox.apk",
     "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.58-googletv.apk"
+  },
+  "phone": {
+    "versionCode": 111,
+    "versionName": "1.1",
+    "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-telephone-1.1.apk",
+    "notes": "Bouton « Même genre » (la saga d'abord), réserve sur disque et relance automatique des films, Voix nette, le Direct s'ouvre sur Français TNT HD."
   }
 }
