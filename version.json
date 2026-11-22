@@ -1,10 +1,10 @@
 {
-  "versionCode": 100,
-  "versionName": "3.9.56",
-  "notes": "Films et séries : fini les blocages en boucle. La réserve devant reste pleine, l'image attend un peu de réserve avant de repartir, et un chargement figé se relance tout seul.",
+  "versionCode": 101,
+  "versionName": "3.9.57",
+  "notes": "Films et séries : réserve sur le disque de la box, plusieurs minutes de film téléchargées d'avance. Un ralentissement du serveur ne bloque plus l'image.",
   "apk": "",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.56-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.56-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.57-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.57-googletv.apk"
   }
 }
