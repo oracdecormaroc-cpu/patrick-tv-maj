@@ -1,9 +1,10 @@
 {
-  "versionCode": 99,
-  "versionName": "3.9.55",
-  "notes": "Le contour des cadres est net, même dans les arrondis (trait de 2 px plus franc).",
+  "versionCode": 100,
+  "versionName": "3.9.56",
+  "notes": "Films et séries : fini les blocages en boucle. La réserve devant reste pleine, l'image attend un peu de réserve avant de repartir, et un chargement figé se relance tout seul.",
   "apk": "",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.55-mibox.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.56-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.56-googletv.apk"
   }
 }
