@@ -12,5 +12,12 @@
     "versionName": "1.1",
     "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-telephone-1.1.apk",
     "notes": "Bouton « Même genre » (la saga d'abord), réserve sur disque et relance automatique des films, Voix nette, le Direct s'ouvre sur Français TNT HD."
+  },
+  "windows": {
+    "versionCode": 110,
+    "versionName": "1.1.0",
+    "jar": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/windows/patrick-tv-1.1.0.jar",
+    "sha256": "8f97ec5082860e9716d2d22e0361ad9206675545141aeec14c5d8fdf80007f73",
+    "notes": "Bouton « Même genre » (la saga d'abord), réserve anti-coupure et relance automatique, Voix nette (touche V), le Direct s'ouvre sur Français TNT HD, mises à jour automatiques."
   }
 }
