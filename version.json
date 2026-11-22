@@ -1,10 +1,9 @@
 {
-  "versionCode": 96,
-  "versionName": "3.9.52",
-  "notes": "« ≈ Films du même genre » montre d'abord les autres films de la même saga (Smile 2, Saw I à X…), dans l'ordre, puis les films du même genre.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.52-mibox.apk",
+  "versionCode": 97,
+  "versionName": "3.9.53",
+  "notes": "Télé 65 pouces : les cadres sont plus près du bord de l'écran (Direct, volet des catégories, Films et Séries).",
+  "apk": "",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.52-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.52-googletv.apk"
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.53-googletv.apk"
   }
 }
