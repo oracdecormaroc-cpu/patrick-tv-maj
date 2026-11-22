@@ -1,10 +1,10 @@
 {
-  "versionCode": 95,
-  "versionName": "3.9.51",
-  "notes": "Films et Séries : quand tu ouvres un film ou une série, la fenêtre Lecture / Favori a un nouveau bouton « ≈ Films du même genre » (ou « Séries du même genre »). Il n'affiche plus que les titres du même genre, les mieux notés en premier ; Retour revient à la catégorie.",
-  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.51-mibox.apk",
+  "versionCode": 96,
+  "versionName": "3.9.52",
+  "notes": "« ≈ Films du même genre » montre d'abord les autres films de la même saga (Smile 2, Saw I à X…), dans l'ordre, puis les films du même genre.",
+  "apk": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.52-mibox.apk",
   "apks": {
-    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.51-mibox.apk",
-    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.51-googletv.apk"
+    "mibox": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.52-mibox.apk",
+    "googletv": "https://raw.githubusercontent.com/oracdecormaroc-cpu/patrick-tv-maj/HEAD/apk/patrick-tv-3.9.52-googletv.apk"
   }
 }
